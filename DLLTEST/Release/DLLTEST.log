@@ -1,0 +1,13 @@
+﻿生成启动时间为 2014/2/3 23:31:21。
+     1>项目“F:\CenterSystem\VS_Projects~\DLLTEST\DLLTEST\DLLTEST.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Visual Studio 2012~win8\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CenterSystem\VS_Projects~\DLLTEST\Release\DLLTEST.dll" /INCREMENTAL:NO /NOLOGO opencv_contrib247.lib opencv_core247.lib opencv_features2d247.lib opencv_flann247.lib opencv_gpu247.lib opencv_highgui247.lib opencv_imgproc247.lib opencv_legacy247.lib opencv_ml247.lib opencv_objdetect247.lib opencv_ts247.lib opencv_video247.lib strmiids.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\CenterSystem\VS_Projects~\DLLTEST\Release\DLLTEST.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CenterSystem\VS_Projects~\DLLTEST\Release\DLLTEST.lib" /MACHINE:X86 /SAFESEH /DLL Release\CameraDS.obj
+         Release\DLL_TEST.obj
+         正在生成代码
+         已完成代码的生成
+         DLLTEST.vcxproj -> F:\CenterSystem\VS_Projects~\DLLTEST\Release\DLLTEST.dll
+     1>已完成生成项目“F:\CenterSystem\VS_Projects~\DLLTEST\DLLTEST\DLLTEST.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.83
